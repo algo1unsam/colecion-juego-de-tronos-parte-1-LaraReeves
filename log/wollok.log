@@ -10,3 +10,12 @@
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.922Z"}
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.998Z"}
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:17.409Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":198,"timestamp":"2024-09-07T13:54:42.894Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Ryzen/Desktop/TECNICATURA/Segundo/Algoritmos-I/colecion-juego-de-tronos-parte-1-LaraReeves","timestamp":"2024-09-07T13:54:42.901Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2024-09-07T13:54:43.105Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":218,"timestamp":"2024-09-07T13:54:43.324Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":129,"timestamp":"2024-09-07T13:54:43.454Z"}
+{"level":"info","message":"⌛ Validating test.wtest","timeElapsed":124,"timestamp":"2024-09-07T13:54:43.585Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":104,"timestamp":"2024-09-07T13:54:43.690Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":150,"timestamp":"2024-09-07T13:54:52.300Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":200,"timestamp":"2024-09-07T13:54:52.503Z"}
